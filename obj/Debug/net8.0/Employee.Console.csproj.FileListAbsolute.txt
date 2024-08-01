@@ -1,0 +1,14 @@
+/Users/iambrian/Desktop/Employee.Console/bin/Debug/net8.0/Employee.Console
+/Users/iambrian/Desktop/Employee.Console/bin/Debug/net8.0/Employee.Console.deps.json
+/Users/iambrian/Desktop/Employee.Console/bin/Debug/net8.0/Employee.Console.runtimeconfig.json
+/Users/iambrian/Desktop/Employee.Console/bin/Debug/net8.0/Employee.Console.dll
+/Users/iambrian/Desktop/Employee.Console/bin/Debug/net8.0/Employee.Console.pdb
+/Users/iambrian/Desktop/Employee.Console/obj/Debug/net8.0/Employee.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iambrian/Desktop/Employee.Console/obj/Debug/net8.0/Employee.Console.AssemblyInfoInputs.cache
+/Users/iambrian/Desktop/Employee.Console/obj/Debug/net8.0/Employee.Console.AssemblyInfo.cs
+/Users/iambrian/Desktop/Employee.Console/obj/Debug/net8.0/Employee.Console.csproj.CoreCompileInputs.cache
+/Users/iambrian/Desktop/Employee.Console/obj/Debug/net8.0/Employee.Console.dll
+/Users/iambrian/Desktop/Employee.Console/obj/Debug/net8.0/refint/Employee.Console.dll
+/Users/iambrian/Desktop/Employee.Console/obj/Debug/net8.0/Employee.Console.pdb
+/Users/iambrian/Desktop/Employee.Console/obj/Debug/net8.0/Employee.Console.genruntimeconfig.cache
+/Users/iambrian/Desktop/Employee.Console/obj/Debug/net8.0/ref/Employee.Console.dll

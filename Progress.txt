@@ -1,0 +1,5 @@
+1. Create a console application with name of Employee.Console - check		
+2. create an enum name of GenderEnum with Male as 1 and female as 2 - check
+3. check
+4. check
+5. check
